@@ -20,7 +20,7 @@ A Flutter-based student attendance tracking app with Firebase Firestore integrat
 ## 📱 Demo Video
 🎬 Watch the demo below (file is inside `/demo` folder):
 
-➡️ [Click to view demo video](demo/Android Emulator - Medium_Phone_5554 2025-11-11 15-47-30.mp4)
+➡️ [Click to view demo video](demo/demo.mp4)
 
 This project is a starting point for a Flutter application.
 
