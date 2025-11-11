@@ -3,6 +3,24 @@
 A new Flutter project.
 
 ## Getting Started
+# 🧑‍🎓 Student Attendance App
+
+A Flutter-based student attendance tracking app with Firebase Firestore integration.
+
+## 🚀 Features
+- Add & manage student records  
+- Mark attendance daily  
+- View absentees and reports  
+- Generate daily and range reports  
+- Firebase Firestore backend  
+- Material UI for smooth experience  
+
+---
+
+## 📱 Demo Video
+🎬 Watch the demo below (file is inside `/demo` folder):
+
+➡️ [Click to view demo video](demo/demo.mp4)
 
 This project is a starting point for a Flutter application.
 
